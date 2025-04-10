@@ -1,11 +1,9 @@
-
-import java.util.Scanner;
-
 /*  Somma dei primi n numeri. Es:
 	Input: n
 	Output: somma da 1 a n.
 */
 
+import java.util.Scanner;
 
 public class sommaN {
     public static void main(String[] args) throws Exception {

@@ -25,7 +25,6 @@ public class ciffreInput {
         input.close();
     }
 
-
     public static int contaLeCiffre(int inputInterger){
         int numeroCiffre;
 

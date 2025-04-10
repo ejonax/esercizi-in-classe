@@ -1,11 +1,9 @@
-
-import java.util.Scanner;
-
-
 /*  Inverti una stringa. Es:
 	Input: "ciao"
 	Output: "oaic"
     */
+
+import java.util.Scanner;
 
 public class invertiStringa {
     

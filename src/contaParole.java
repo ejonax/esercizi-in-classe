@@ -1,11 +1,10 @@
-
-import java.util.Scanner;
-
 /*
-Conta le parole in una frase. Es:
+  Conta le parole in una frase. Es:
 	Input: "ciao come va?"
 	Output: 3
 */
+import java.util.Scanner;
+
 public class contaParole {
     
     public static void main(String[] args) {
